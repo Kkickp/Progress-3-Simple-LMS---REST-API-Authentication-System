@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Simple LMS – Docker & Django Foundation
 
 # 🐳 Docker Services
@@ -59,7 +59,7 @@ Programming
 
 ---
 
-<<<<<<< HEAD
+
 ## 2️⃣ Database Service (PostgreSQL)
 
 Image:
@@ -105,7 +105,7 @@ Copy file ini menjadi `.env` sebelum menjalankan project.
 ## 1️⃣ Clone Repository
 
 ```
-git clone https://github.com/Kkickp/Progress-1-Simple-LMS---Docker-Django-Foundation
+git clone https://github.com/Kkickp/Progress-3-Simple-LMS---REST-API-Authentication-System
 cd simple-lms
 ```
 
